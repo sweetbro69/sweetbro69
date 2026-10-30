@@ -6,4 +6,4 @@
 
 
 <div align="center">WIP</div>
-$`\textcolor{purple}{ \text{"mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)"} }`$
+$ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
