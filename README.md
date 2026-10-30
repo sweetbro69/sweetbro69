@@ -1,4 +1,4 @@
-  <div align="center"> "mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)" </div>
+  <div align="center"> \colorpurple "mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)" </div>
 <div align="center"> <img width="596" height="812" alt="hJUxBK3B5scY" src="https://github.com/user-attachments/assets/91ec4cbb-aa11-43ef-b131-4c0b8602bbbf" /> </div>
 
 
