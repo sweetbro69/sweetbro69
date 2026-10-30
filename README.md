@@ -6,5 +6,5 @@
 
 
 <div align="center">WIP</div>
-$\color{red}{\text{Red text on GitHub}}$
+$\color{#16a34a}{\text{Exact hex color}}$
 
