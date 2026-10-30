@@ -6,4 +6,3 @@
 
 
 <div align="center">WIP</div>
-$ `\textcolor{teal}{ \text{ Eq.(3-5) in the main text} } `$
