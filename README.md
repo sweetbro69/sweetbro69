@@ -6,3 +6,4 @@
 
 
 <div align="center">WIP</div>
+$$\color{purple} \fcolorbox{red}{white} {Purple on White} $$
