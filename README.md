@@ -6,4 +6,4 @@
 
 
 <div align="center">WIP</div>
-<span style="color: purple">This text is red.</span>
+<span style="color: #2563eb">This text is blue (#2563eb).</span>
