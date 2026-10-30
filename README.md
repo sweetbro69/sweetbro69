@@ -6,4 +6,4 @@
 
 
 <div align="center">WIP</div>
-$ ` \textcolor{#2B0057}{ \text{"mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)"} } `$
+$`\textcolor{#2B0057}{ \text{"mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)"} }`$
