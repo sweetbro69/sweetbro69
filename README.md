@@ -1,4 +1,4 @@
-"My future is blurry, but I will try to stay long enough for it to take shape."
+  "My future is blurry, but I will try to stay long enough for it to take shape."
 <img width="596" height="812" alt="hJUxBK3B5scY" src="https://github.com/user-attachments/assets/91ec4cbb-aa11-43ef-b131-4c0b8602bbbf" />
 
 
