@@ -6,5 +6,4 @@
 
 
 <div align="center">WIP</div>
-$\color{#16a34a}{\text{Exact hex color}}$
 
