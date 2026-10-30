@@ -6,3 +6,4 @@
 
 
 <div align="center">WIP</div>
+<span style="color: red">This text is red.</span>
