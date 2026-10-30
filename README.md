@@ -6,4 +6,5 @@
 
 
 <div align="center">WIP</div>
-<span style="color: #2563eb">This text is blue (#2563eb).</span>
+$\color{red}{\text{Red text on GitHub}}$
+
