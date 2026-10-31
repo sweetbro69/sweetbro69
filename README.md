@@ -7,4 +7,4 @@
 
 <div align="center">WIP</div>
 
-${\textsf{color{#2B0057}"mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o)" }}$
+${\textsf{color{#2B0057}mY fUtUrE iS bLuRrY, bUt I wIlL tRy To StAy As LoNg As I cAn, To At LeAsT gIvE iT sOmE sHaPe :o) }}$
