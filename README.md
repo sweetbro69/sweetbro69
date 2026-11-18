@@ -5,5 +5,5 @@
 
 
 <div align="center">WIP</div>
-${\textsf{\color{#6c00da}WIP.}}$
+${\textsf{\color{#6c00da}WIP. }}$
 
