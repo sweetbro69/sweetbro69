@@ -11,3 +11,6 @@
 ${\textsf{\color{#6c00da} Gambo/Gambu/Gamby Or just Clown!}}$
 ${\textsf{\color{#6c00da} Usually offtab, "busy" with other things. if you want to bring up a topic/talk, start a roleplay, or anything else, }}$
 ${\textsf{\color{#6c00da} just send me a whisper—you’ll have my full attention :o) }}$
+
+${\textsf{\color{#6c00da} That said, I should clarify that I’m a bit of a socially anxious clown—I’m actually somewhat terrified of people— }}$
+${\textsf{\color{#6c00da} but don’t let that discourage you from messaging me! As the conversation flows, I’ll start to feel more comfortable. }}$
