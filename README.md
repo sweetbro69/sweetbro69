@@ -9,4 +9,6 @@
 <div align="center">WIP</div>
 
 ${\textsf{\color{#6c00da} Gambo/Gambu/Gamby Or just Clown!}}$
+${\textsf{\color{#6c00da} Usually offtab, "busy" with other things. if you want to bring up a topic/talk, start a roleplay, or anything else, just send me a whisper—you’ll have my full attention :o) }}$
+
 
