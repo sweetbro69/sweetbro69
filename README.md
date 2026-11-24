@@ -14,3 +14,5 @@ ${\textsf{\color{#6c00da} just send me a whisper—you’ll have my full attenti
 
 ${\textsf{\color{#6c00da} That said, I should clarify that I’m a bit of a socially anxious clown—I’m actually somewhat terrified of people— }}$
 ${\textsf{\color{#6c00da} but don’t let that discourage you from messaging me! As the conversation flows, I’ll start to feel more comfortable. }}$
+
+${\textsf{\color{#6c00da} Feel free to cuddle, sit, or kiss my pony. I encourage C+H and gladly enjoy it Honk honk! }}$
