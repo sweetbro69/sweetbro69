@@ -22,5 +22,5 @@ ${\textsf{\color{#6c00da} Feel free to cuddle, sit, or kiss my pony. I encourage
 <img width="150" height="20" alt="tumblr_b320d26bfe3bcff8fbe901664900f8b8_e38ed642_250" src="https://github.com/user-attachments/assets/3c6c0c43-cca2-4f96-9839-e43c515d861d" />
 <img width="150" height="20" alt="tumblr_a096f453b4dbf93deb8d81a8ca8e3ecb_1308897e_250" src="https://github.com/user-attachments/assets/1e081d07-8c29-49e6-a6e0-c81af2ed5ee3" />
 <img width="150" height="20" alt="tumblr_ffc7ff0f98a31447784301760f4ede55_14bd393d_250" src="https://github.com/user-attachments/assets/70bbd40c-2238-40d6-91b8-c264b1105d8f" />
-<img width="150" height="20" alt="blinkiesCafe-Wl" src="https://github.com/user-attachments/assets/72ee0c67-a576-4449-afb3-79a894de56a9" />
+<img width="150" height="20" alt="blinkiesCafe-Wl" src="https://github.com/user-attachments/assets/2410a98b-18ec-4f81-9383-e7d40a52b917" />
 
