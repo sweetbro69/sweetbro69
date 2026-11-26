@@ -19,3 +19,4 @@ ${\textsf{\color{#6c00da} Feel free to cuddle, sit, or kiss my pony. I encourage
 
 <img width="150" height="20" alt="tumblr_54224143532b8f1e9fc0cb0026dbd4f9_52257723_250" src="https://github.com/user-attachments/assets/47e1ed55-ea0f-4c4e-bdc5-9fb7e5d93a48" />
 <img width="150" height="20" alt="tumblr_b320d26bfe3bcff8fbe901664900f8b8_e38ed642_250" src="https://github.com/user-attachments/assets/3c6c0c43-cca2-4f96-9839-e43c515d861d" />
+<img width="300" height="40" alt="tumblr_3df6e9a9522bb6cfd353534247f215d4_c8c76656_400" src="https://github.com/user-attachments/assets/bb1f7b26-f7f0-422a-9320-271465fc144b" />
