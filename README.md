@@ -16,6 +16,7 @@ ${\textsf{\color{#6c00da} That said, I should clarify that I’m a bit of a soci
 ${\textsf{\color{#6c00da} but don’t let that discourage you from messaging me! As the conversation flows, I’ll start to feel more comfortable. }}$
 
 ${\textsf{\color{#6c00da} Feel free to cuddle, sit, or kiss my pony. I encourage C+H and gladly enjoy it Honk honk! }}$
+<img width="50" height="50" alt="tumblr_5b7d77c3cba1317b27a70762a06b8389_3efc20e0_75" src="https://github.com/user-attachments/assets/6d1936d4-1c07-4b90-abfe-386adb2c2748" />
 
 <img width="150" height="20" alt="tumblr_54224143532b8f1e9fc0cb0026dbd4f9_52257723_250" src="https://github.com/user-attachments/assets/47e1ed55-ea0f-4c4e-bdc5-9fb7e5d93a48" />
 <img width="150" height="20" alt="tumblr_b320d26bfe3bcff8fbe901664900f8b8_e38ed642_250" src="https://github.com/user-attachments/assets/3c6c0c43-cca2-4f96-9839-e43c515d861d" />
