@@ -1,5 +1,4 @@
 <img width="974" height="27" alt="Dp48ZAn9hipe" src="https://github.com/user-attachments/assets/868a8ae9-901e-4730-93dc-0e0bbce654d7" />
-<img width="64" height="74" alt="tumblr_a0a8895919757c604edc45c9cf4aa28a_3259829e_75" src="https://github.com/user-attachments/assets/3af40104-d63d-49ef-a2b9-631eb6b26e29" />
 
 <div align="center"> <img width="596" height="812" alt="hJUxBK3B5scY" src="https://github.com/user-attachments/assets/91ec4cbb-aa11-43ef-b131-4c0b8602bbbf" /> </div>
 
@@ -16,6 +15,7 @@ ${\textsf{\color{#6c00da} just send me a whisper—you’ll have my full attenti
 ${\textsf{\color{#6c00da} That said, I should clarify that I’m a bit of a socially anxious clown—I’m actually somewhat terrified of people— }}$
 ${\textsf{\color{#6c00da} but don’t let that discourage you from messaging me! As the conversation flows, I’ll start to feel more comfortable. }}$
 
+<img width="64" height="74" alt="tumblr_a0a8895919757c604edc45c9cf4aa28a_3259829e_75" src="https://github.com/user-attachments/assets/3af40104-d63d-49ef-a2b9-631eb6b26e29" />
 ${\textsf{\color{#6c00da} Feel free to cuddle, sit, or kiss my pony. I encourage C+H and gladly enjoy it Honk honk! }}$
 <img width="50" height="50" alt="tumblr_5b7d77c3cba1317b27a70762a06b8389_3efc20e0_75" src="https://github.com/user-attachments/assets/6d1936d4-1c07-4b90-abfe-386adb2c2748" />
 
